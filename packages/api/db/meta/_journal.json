@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1737690465080,
+      "tag": "0000_aberrant_black_cat",
+      "breakpoints": true
+    }
+  ]
+}
